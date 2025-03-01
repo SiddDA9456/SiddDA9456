@@ -1,6 +1,6 @@
 # 💫 About Me:
-Iam Siddhartha Babu a Data Analyst 
-Skilled in Power BI, Excel, SQL, Python, and ChatGPT.
+Iam Siddhartha Babu a Data Analyst <br>
+Skilled in Power BI, Excel, SQL, Python, and ChatGPT. <br>
 You can reach me via email at Siddhartha.babu509049@gmail.com
 
 <!---
